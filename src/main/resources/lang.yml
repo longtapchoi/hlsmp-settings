@@ -1,0 +1,5 @@
+#General Messages
+only-players: "&#FF0000Chỉ người chơi mới dùng được lệnh này!"
+plugin-reload: "&#00FF00Đã tải lại plugin thành công!"
+no-permission: "&#FF0000Bạn không có quyền thực hiện lệnh này!"
+cooldown-message: "&#FF0000Vui lòng chờ %time% giây trước khi thay đổi cài đặt!"
