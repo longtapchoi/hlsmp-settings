@@ -1,5 +1,0 @@
-#General Messages
-only-players: "&#FF0000Only players can use this!"
-plugin-reload: "&#00FF00Plugin reloaded successfully!"
-no-permission: "&#FF0000You don't have permission for this!"
-cooldown-message: "&#FF0000Please wait %time% seconds before changing settings again!"
