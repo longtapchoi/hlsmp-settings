@@ -1,0 +1,14 @@
+name: HLSMP-Settings
+version: '1.5.2'
+main: de.elivb.donutSettings.Settings
+api-version: '1.21'
+author: EliVB
+description: Settings GUI for HLSMP
+folia-supported: true
+
+commands:
+  settings:
+
+permissions:
+  settings.reload:
+    default: op
