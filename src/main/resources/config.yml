@@ -70,7 +70,7 @@ settings-gui:
     nightvision:
       slot: 9
       material: "TORCH"
-      display-name: "&#08FB7Bɴʜìɴ ᴆêᴍ ᴠĩɴʜ ᴠɪễɴ"
+      display-name: "&#08FB7Bɴɪɢʜᴛᴠɪsɪᴏɴ"
       lore: "&fHiện tại: %status%"
       command: "nightvisiontoggle"
       default: false
